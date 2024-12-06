@@ -72,3 +72,30 @@ dd{
     color: orange;
     padding: 15px;
 }
+
+#process{
+    background-color: hwb(25 4% 61%);
+    border-color: hwb(25 4% 61%);
+    border-radius: 15px;
+
+    color: orange;
+    padding: 15px;
+}
+
+#product{
+    background-color: hwb(25 4% 61%);
+    border-color: hwb(25 4% 61%);
+    border-radius: 15px;
+
+    color: orange;
+    padding: 15px;
+}
+
+#contact{
+    background-color: hwb(25 4% 61%);
+    border-color: hwb(25 4% 61%);
+    border-radius: 15px;
+
+    color: orange;
+    padding: 15px;
+}
